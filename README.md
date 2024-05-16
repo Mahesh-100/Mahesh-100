@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Mahesh Kumar</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
