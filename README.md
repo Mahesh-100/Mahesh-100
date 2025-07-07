@@ -16,8 +16,8 @@
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
   <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg" alt="Groovy" width="40" height="40"/></a>
-  <a href="https://micronaut.io/" target="_blank" rel="noreferrer"><img src="https://micronaut.io/images/logos/micronaut.svg" alt="Micronaut" width="40" height="40"/></a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/></a>
+   <a href="https://micronaut.io/" target="_blank" rel="noreferrer"><img src="https://micronaut.io/images/logos/micronaut.svg" alt="Micronaut" width="40" height="40"/></a>
 </p>
 
 ---
