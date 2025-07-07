@@ -15,9 +15,9 @@
 ### 💻 Languages & Backend Technologies  
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/></a>
-  <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/groovy/groovy-icon.svg" alt="Groovy" width="40" height="40"/></a>
+  <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg" alt="Groovy" width="40" height="40"/></a>
   <a href="https://micronaut.io/" target="_blank" rel="noreferrer"><img src="https://micronaut.io/images/logos/micronaut.svg" alt="Micronaut" width="40" height="40"/></a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/></a>
 </p>
 
 ---
@@ -43,9 +43,10 @@
 
 ---
 
-### 🧪 Testing & CI  
+### 🧪 Testing & Protocols  
 <p align="left">
-  <a href="https://spockframework.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spock_logo.svg/512px-Spock_logo.svg.png" alt="Spock" width="40" height="40"/></a>
+  <a href="https://spockframework.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spock_logo.svg" alt="Spock" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/OCPP-Open%20Charge%20Point%20Protocol-blue" alt="OCPP" height="30"/>
 </p>
 
 ---
